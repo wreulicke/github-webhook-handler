@@ -1,6 +1,6 @@
 ## github-webhook-handler
 
-github-webhook-handler is parse webhook from github and dispatch event to your event handler.
+github-webhook-handler is parse webhook from github and dispatch event to your event handler for GitHub Apps.
 
 ## Install
 
