@@ -45,3 +45,7 @@ go get -u github.com/wreulicke/github-webhook-handler
 ```
 
 You can see fully example in [here](./example/)
+
+## LICENSE 
+
+MIT
